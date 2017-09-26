@@ -13,3 +13,6 @@
 指導老師:莊文勝
 
 介面:
+
+甘特圖：
+![image](https://github.com/gg49576jjop/16_virtual_money/blob/master/0.PNG)

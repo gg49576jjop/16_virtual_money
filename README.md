@@ -18,6 +18,7 @@
 ![image](https://github.com/gg49576jjop/16_virtual_money/blob/master/0.PNG)
 
 功能：
+    
     １．在網路連線環境下，學生當學期成績出來後（老師以上傳系統登記），手機可以馬上通知
     
     ２．亦可通知排名等資訊
